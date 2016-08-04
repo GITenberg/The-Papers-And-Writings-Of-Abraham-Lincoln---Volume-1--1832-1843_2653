@@ -1,0 +1,62 @@
+_repo: The-Papers-And-Writings-Of-Abraham-Lincoln---Volume-1--1832-1843_2653
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Schurz, Carl
+    alias: Schurz, C. (Carl)
+    birthdate: 1829
+    deathdate: 1906
+    gutenberg_agent_id: '2909'
+    url: http://www.gutenberg.org/2009/agents/2909
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Schurz
+  - agent_name: Roosevelt, Theodore
+    aliases:
+    - Roosevelt, Teddy
+    - United States President (1901-1909)
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
+  - agent_name: Choate, Joseph Hodges
+    alias: Choate, Joseph H.
+    birthdate: 1832
+    deathdate: 1917
+    gutenberg_agent_id: '6479'
+    url: http://www.gutenberg.org/2009/agents/6479
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Hodges_Choate
+creator:
+  author:
+    agent_name: Lincoln, Abraham
+    aliases:
+    - Lincoln, Abe
+    - United States President (1861-1865)
+    birthdate: 1809
+    deathdate: 1865
+    gutenberg_agent_id: '3'
+    url: http://www.gutenberg.org/2009/agents/3
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
+  editor:
+    agent_name: Lapsley, Arthur Brooks
+    gutenberg_agent_id: '26579'
+    url: http://www.gutenberg.org/2009/agents/26579
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1841-1845'
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcsh 'United States -- Politics and government -- 1837-1841'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Correspondence'
+- !lcsh 'United States -- Politics and government -- 1829-1837'
+- !lcc 'E456'
+- GITenberg
+title: 'The Papers And Writings Of Abraham Lincoln — Volume 1: 1832-1843'
+url: http://www.gutenberg.org/ebooks/2653
