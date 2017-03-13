@@ -1,5 +1,5 @@
 _repo: The-Papers-And-Writings-Of-Abraham-Lincoln---Volume-1--1832-1843_2653
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Schurz, Carl
@@ -25,6 +25,9 @@ contributor:
     gutenberg_agent_id: '6479'
     url: http://www.gutenberg.org/2009/agents/6479
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Hodges_Choate
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lincoln, Abraham
@@ -41,6 +44,8 @@ creator:
     gutenberg_agent_id: '26579'
     url: http://www.gutenberg.org/2009/agents/26579
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2653#The-Papers-And-Writings-Of-Abraham-Lincoln---Volume-1--1832-1843
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2004-09-30'
 gutenberg_type: Text
